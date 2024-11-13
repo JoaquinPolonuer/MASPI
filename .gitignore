@@ -1,2 +1,5 @@
 data/
+train/
+train_masks/
 __pycache__/
+.DS_Store
