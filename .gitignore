@@ -3,3 +3,5 @@ train/
 train_masks/
 __pycache__/
 .DS_Store
+BaseOCR_MultiStyle
+out
